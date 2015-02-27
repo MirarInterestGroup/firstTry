@@ -1,6 +1,34 @@
 # firstTry
 
 And the winner goals are:
-1.
-2.
-3.
+
+- Think MVC
+- Architect Rest
+- Show SPV
+
+- Technologies
+  - http 2.2
+  - HTML5/CSS
+  - AngularJS
+
+  - BackEnd 
+    - node.js, 
+    - mongoDB ou couchDB
+    - NGINX
+ 
+Abstract Goals:
+
+- WebPage/Blog
+  . Dev Guide Tutorials
+  . Design/Develop Game
+
+
+Dev Plataform:
+
+1. WebStorm IDE
+2. GitHub
+3. CheeseBurgers
+
+
+
+
