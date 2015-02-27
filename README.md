@@ -8,7 +8,7 @@ And the winner goals are:
 
 - Technologies
   - http 2.2
-  - HTML5/CSS
+  - HTML5/CSS (support for crossplatform MOBILE APP)
   - AngularJS
 
   - BackEnd 
