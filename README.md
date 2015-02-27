@@ -7,7 +7,7 @@ And the winner goals are:
 - Show SPV
 
 - Technologies
-  - http 2.2
+  - http 2.0
   - HTML5/CSS (support for crossplatform MOBILE APP)
   - AngularJS
 
